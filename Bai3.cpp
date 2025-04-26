@@ -40,6 +40,5 @@ int main() {
             cout << "Ten: " << danhSach[i].ten << ", Diem TB: " << diemTB << endl;
         }
     }
-
     return 0;
 }
